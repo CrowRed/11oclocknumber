@@ -1,8 +1,8 @@
 # Games and Exercises
 
 ## Improv Games
-**3 Line Game:** Sets up who we are, relationship, location, what we're doing in 3 lines.
-**It's Tuesday:** Character enters and says "It's Tuesday" in 2 more lines we set up who we are, relationship, location, what we are doing
+**3 Line Game:** Sets up who we are, relationship, location, what we're doing in 3 lines.  
+**It's Tuesday:** Character enters and says "It's Tuesday" in 2 more lines we set up who we are, relationship, location, what we are doing.  
 **Endowing game:** Open scene, each line must endow the other character. Working on narrowing the scene as opposed to broadening it.
 
 ## Musical Games
