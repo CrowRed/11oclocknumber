@@ -29,7 +29,7 @@
 **(First) Unusual thing:** A statement in a scene from an actor that is a bold offer suggesting that there is something odd about the universe.  
 
 ## V
-**Volley:** Setting up a rhyme for someone else.
+**Volley:** Setting up a rhyme for someone else.  
 
 # Rules
 **Rules of a chorus:** Must have phrase repetition & must be about main idea of song. Repeat the chorus until everyone knows it, which may be more than just twice. The creator of the phrase is the teacher of the phrase upon repetition.  
