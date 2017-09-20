@@ -2,6 +2,7 @@ title: 11 O'Clock Number
 description: edmonton's improvised musical
 show_downloads: false
 git_branch: gh-pages
+comments: true
 logo_url:
 google_analytics:
 theme: 
@@ -10,7 +11,7 @@ use_github_wiki: false
 use_prose_io: true
 google_cse_token: 
 custom_head: false
-custom_sidebar: false
+custom_sidebar: true
 custom_footer: false
 gems:
   - jekyll-sitemap
@@ -18,4 +19,3 @@ gems:
   - jemoji
   - jekyll-redirect-from
   - jekyll-feed
-
