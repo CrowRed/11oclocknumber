@@ -8,7 +8,8 @@
 ## Musical Games
 
 ## Songs
-**Opening Number (Life as a Musical):** Ask for occupation, choose most obvious location for that occupation to take place. Begin with scene painting. All involved in song are the same character (all nurses or all marines etc.) Chorus establishes location, verses continue painting. Working on clumps and building a dance break the same way a chorus is built.
+**Opening Number (Life as a Musical):** Ask for occupation, choose most obvious location for that occupation to take place. Begin with scene painting. All involved in song are the same character (all nurses or all marines etc.) Chorus establishes location, verses continue painting. Working on clumps and building a dance break the same way a chorus is built.  
+**Location Song:** A song that paints and outlines a particular place. Often, the actors are singing this song as narrators. See 'Opening Number'.  
 
 
 
