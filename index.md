@@ -19,7 +19,7 @@ Here you will find a terminology reference and a games list as well as other imp
 - December 15 Show - Winter Wonderland (Call time 7:30, Show 9:00 pm)
 
 ## NEW POLICIES:
-No more than 2 rehearsals can be missed (unless otherwise discussed with myself). Cast members are subject to be put on probation. This will be determined on a case by case basis. Please sign-in on the sign-in sheet for every rehearsal you attend.
+No more than 2 rehearsals can be missed (unless otherwise discussed with Mhairi). Cast members are subject to be put on probation. This will be determined on a case by case basis. Please sign-in on the sign-in sheet for every rehearsal you attend.
 
 ## NEW WORKSHOP FORMAT:
 Workshops will consist of:
