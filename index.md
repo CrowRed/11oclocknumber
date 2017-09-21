@@ -1,6 +1,6 @@
 # Welcome to the 11 O'Clock Number Reference Wiki
 
-Here you will find a terminology reference and a games list.
+Here you will find a terminology reference and a games list as well as other important information.
 
 ## IMPORTANT DATES:
 - September 24 Rehearsal 7-10
