@@ -8,7 +8,10 @@
 
 
 ## Musical Games
-**Musical Space Jump:** There is 1 theme that is used to build up the scenes. Scenes are built with 1 character on stage, when ready a second character will clap in and change the scene (still working off the theme). This continues until eventually all actors are onstage. Singing begins with a main chorus that can be song over each scene (think Les Mis). The character that initialized each scene is in charge of singing a verse. Chorus can be tagged at the end of each scene. We continue until we are left with just one person again.  
+**Accordion (Musical Space Jump):** There is 1 theme that is used to build up the scenes. Scenes are built with 1 character on stage, when ready a second character will clap in and change the scene (still working off the theme). This continues until eventually all actors are onstage. Singing begins with a main chorus that can be song over each scene (think Les Mis). The character that initialized each scene is in charge of singing a verse. Chorus can be tagged at the end of each scene. We continue until we are left with just one person again.  
+**Musical Armando:** Scenes + songs based off of monologue.  
+**Musical Correspondence:** Correspondence that leads to a date where the characters sing.  
+**Square Dance:** Four square with singing, sing as soon as musician starts playing.  
 
 ## Songs
 **Opening Number (Life as a Musical):** Ask for occupation, choose most obvious location for that occupation to take place. Begin with scene painting. All involved in song are the same character (all nurses or all marines etc.) Chorus establishes location, verses continue painting. Working on clumps and building a dance break the same way a chorus is built.  
