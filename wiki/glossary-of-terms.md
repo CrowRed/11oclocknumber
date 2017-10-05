@@ -42,6 +42,7 @@ Steps to volley and spike:
 2) Set up your volley by finding a word that rhymes with shark. The Volley-er will NOT say shark but say the volley rhyme. Let's make the volley dark.  
 3) Sing a phrase that ends with your volley word dark. For example: They are swimming in the ocean where it is so dark.  
 4) Partner then "spikes" with the associated word. For example: I hope I can swim faster than all those sharks.  
+*Note: Associated word is used as the spike rather than the volley to make it more impressive to the audience.*
 
 # Rules
 **Rules of a chorus:** Must have phrase repetition & must be about main idea of song. Repeat the chorus until everyone knows it, which may be more than just twice. The creator of the phrase is the teacher of the phrase upon repetition.  
