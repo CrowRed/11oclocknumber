@@ -15,7 +15,7 @@
 **Location Song:** A song that paints and outlines a particular place. Often, the actors are singing this song as narrators. See 'Opening Number'.  
 
 ## Formats
-# Life as a Musical Format: (thus far)
+### Life as a Musical Format: (thus far)
 
 1. Opening Number: Sets up location. All characters are the same  
 2. Here Comes "_ _ _": 2 friends set up with three line game. They then introduce the main character and play "here comes Jack" to endow them. We want to find out what the main character is passionate about and hint at there achilles heel.  
