@@ -18,6 +18,13 @@
 ### Life as a Musical Format: (thus far)
 
 1. Opening Number: Sets up location. All characters are the same  
-2. Here Comes "_ _ _": 2 friends set up with three line game. They then introduce the main character and play "here comes Jack" to endow them. We want to find out what the main character is passionate about and hint at there achilles heel.  
-3. Question of the Play: Main character comes on stage. 2 friends find a reason to leave. Main character sets up the question of the play with an "I want song".  
+2. Here Comes "___": 2 friends set up with three line game. They then introduce the main character and play "here comes Jack" to endow them. We want to find out what the main character is passionate about and hint at their achilles heel.  
+3. Question of the Play: Main character comes on stage. 2 friends find a reason to leave. Main character sets up the question of the play with an "I want song"  
+4. Love Interest : We see a scene with love interest and a secondary character. The love interests job is to set up 2 things: 1) Something that would make them right for the main character 2) Something that would cause friction. End scene with song  
+5. Begin Ping Pong Match: Question of the play. Raising the stakes  
+
+*Aim for a song in each scene of the ping pong match before finale  
+
+6. Finale: Did character get what they wanted  
+
 
