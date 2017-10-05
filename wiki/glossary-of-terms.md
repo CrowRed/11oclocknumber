@@ -5,6 +5,9 @@
 **Achilles Heel:** A trait of a character that could cause their downfall.  
 **Associated Word:** Words you associate off of a theme or offer.  
 
+## B
+**Bridge:** Section of song that has a different thought or approach to main idea. Musically something will change. The bridge can be replaced with the dance break.  
+
 ## C
 **Clumping:** When actors group together to shape the scene.  
 
@@ -18,6 +21,7 @@
 ## P
 **Painting:** Detailed description of a location or character as a narrator. Usually involves gesturing with the hands or body.  
 **Phrase format:** Uses 'AB' format (A A B A chorus example: I like fruit, I like fruit, it's so yummy, I like fruit).
+**Ping-Pong:** The game that is played by secondary characters to forward the question of the play. Will they get what they want, will they not, will they, will they not... etc.
 
 ## Q
 **Question of the Play:** What the main character is fighting for. The answer at the end is either yes or no. ex. Will Romeo and Juliet finally be together? Answer: No.  
