@@ -2,9 +2,11 @@
 
 ## Improv Games
 **3 Line Game:** Sets up who we are, relationship, location, what we're doing in 3 lines.  
-**It's Tuesday:** Character enters and says "It's Tuesday" in 2 more lines we set up who we are, relationship, location, what we are doing.  
 **Endowing game:** Open scene, each line must endow the other character. Working on narrowing the scene as opposed to broadening it.  
 **Here Comes Jack:** Two characters are on stage endowing a character who is offstage. We get all of our basic information out about the scene right away and then play the game of constantly endowing a character until they come on stage using all the offers.  
+**It's Tuesday:** Character enters and says "It's Tuesday" in 2 more lines we set up who we are, relationship, location, what we are doing.  
+**Typewriter:**  One character narrates from that side as if they are writing the scene. Both scene members and narrator create offers. Looking for the first unusual thing.  
+
 
 
 ## Musical Games
@@ -30,4 +32,23 @@
 
 6. Finale: Did character get what they wanted  
 
+### Stranger Things
+
+Tropes of 80's Horror Sci Fi:
+
+- An alien invasion or kidnapping
+- Alien sickness that infects others
+- Someone goes missing
+- Government is involved
+- Scientists
+- People who don't believe what is going on
+
+Format:
+- Remember to set up everyday (this does not to be peppy and can play into the mood of the genre)
+- Play "Here Comes Jack"
+- Something unusual needs to happen. Go with the first unusual thing.
+- Simpler is better 
+- Play into the tropes
+- Allow characters to die and to dissapear
+- Feel free to play actual characters from the show
 
