@@ -38,4 +38,6 @@ Workshops will consist of:
 **Bingo/Fundraising:** If you know of anyone who can volunteer for bingo or if you have any fundraising ideas let us know.  
 **Auditions** Please continue to share audition information with your friends. Auditions will be October 7 and 14 at the church. They can send me an email to book a slot. They will need to prepare a song and a monologue.   
 **Musical Writing Workshop** Musical writing workshop in November. Date TBA  
-**Cast list is now up for shows** You should have all received a link to the folder!
+**Cast list is now up for shows** You should have all received a link to the folder!  
+**Hand billing before shows** You will be contacted by Dallas to do some hand billing before shows to help our houses get bigger.  
+**Christmas Carolling Hand billing** If you are interested in Christmas Caroling and handbilling before our Winter Wonderland show, please let Mhairi know.   
