@@ -49,5 +49,5 @@ Steps to volley and spike:
 *Note: Associated word is used as the spike rather than the volley to make it more impressive to the audience.*
 
 # Rules
-**Rules of a chorus:** Must have phrase repetition & must be about main idea of song. Repeat the chorus until everyone knows it, which may be more than just twice. The creator of the phrase is the teacher of the phrase upon repetition. Should include movement.  
+**Rules of a chorus:** Must have phrase repetition & must be about main idea of song. Repeat the chorus until everyone knows it, which may be more than just twice. The creator of the phrase is the teacher of the phrase upon repetition. Keep it very simple. Should include movement.  
 **Character voices:** Use voices that are interesting but don't  hinder  our speaking or singing abilities. Have the same voice for singing and speaking as a character. Keep the voice consistent and don't drop it over the course of a scene/show.
