@@ -1,9 +1,12 @@
 # Games and Exercises
 
+## Warmup Games
+**Whoosh** With association, rhyming, alliteration, poetry.  
+
 ## Improv Games
-**3 Line Game:** Sets up who we are, relationship, location, what we're doing in 3 lines.  
+**3 Line Game:** Sets up who we are, relationship, location, what we're doing in 3 lines. Beginning with physical offer.
 **Endowing game:** Open scene, each line must endow the other character. Working on narrowing the scene as opposed to broadening it.  
-**Here Comes Jack:** Two characters are on stage endowing a character who is offstage. We get all of our basic information out about the scene right away and then play the game of constantly endowing a character until they come on stage using all the offers.  
+**Here Comes Jamie:** Two characters are on stage endowing a character who is offstage. We get all of our basic information out about the scene right away and then play the game of constantly endowing a character until they come on stage using all the offers.  
 **The Impossible Improv Game**  
 Rules:
 1. Don't talk about someone who isn't there  
