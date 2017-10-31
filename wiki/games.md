@@ -4,7 +4,7 @@
 **3 Line Game:** Sets up who we are, relationship, location, what we're doing in 3 lines.  
 **Endowing game:** Open scene, each line must endow the other character. Working on narrowing the scene as opposed to broadening it.  
 **Here Comes Jack:** Two characters are on stage endowing a character who is offstage. We get all of our basic information out about the scene right away and then play the game of constantly endowing a character until they come on stage using all the offers.  
-**The Impossible Improv Game**
+**The Impossible Improv Game**  
  Rules: 
 1. Don't talk about someone who isn't there  
 2. Don't talk about what you are doing  
