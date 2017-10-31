@@ -19,7 +19,7 @@ Here you will find a terminology reference and a games list as well as other imp
 - December 15 Show - Winter Wonderland (Call time 7:30, Show 9:00 pm)
 
 ## NEW POLICIES:
-No more than 2 rehearsals can be missed (unless otherwise discussed with Mhairi). Cast members are subject to be put on probation. This will be determined on a case by case basis. Please sign-in on the sign-in sheet for every rehearsal you attend.
+No more than 2 rehearsals can be missed (unless otherwise discussed with Mhairi). Cast members are subject to be put on probation. This will be determined on a case by case basis. Please sign-in on the sign-in sheet for every rehearsal you attend. **Please use doorbell when you arrive**.  
 
 ## NEW WORKSHOP FORMAT:
 Workshops will consist of:
@@ -40,4 +40,5 @@ Workshops will consist of:
 **Musical Writing Workshop** Musical writing workshop in November. Date TBA  
 **Cast list is now up for shows** You should have all received a link to the folder!  
 **Hand billing before shows** You will be contacted by Dallas to do some hand billing before shows to help our houses get bigger.  
-**Christmas Carolling Hand billing** If you are interested in Christmas Caroling and handbilling before our Winter Wonderland show, please let Mhairi know.   
+**Christmas Carolling and Hand billing** If you are interested in Christmas Caroling and handbilling before our Winter Wonderland show, please let Mhairi know. Date: December 15 from 6-7pm.  
+**Prairie Bowl** If interested in performing in prairie bowl fire Mhairi an email.  
