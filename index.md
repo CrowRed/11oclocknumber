@@ -32,7 +32,7 @@ Workshops will consist of:
 - Check out
 
 ## THINGS TO THINK ABOUT:
-**Opening Number:** How we can include ritual, audience participation, improv  
+**New Opening Number:** We will test this out on Friday. Objectives moving forward are to simplify so it doesn't have to be rehearsed as much and make it more concise.  
 **Auditions** Please continue to share audition information with your friends. Auditions will be October 7 and 14 at the church. They can send me an email to book a slot. They will need to prepare a song and a monologue.   
 **Cast list is now up for shows** You should have all received a link to the folder!  
 **Hand billing before shows** You will be contacted by Dallas to do some hand billing before shows to help our houses get bigger.  
