@@ -2,6 +2,15 @@
 
 ## Warmup Games
 **Whoosh** With association, rhyming, alliteration, poetry.  
+**This Is A What**
+(focus is on listening, making offers, and energy passing"  
+Standing in a circle  
+Person 1: "this is a ____"  
+Person 2 says "a what?"  
+Person 1: "a _____"  
+Person 2: {asks a question about the ____}  
+Person 1: {answers question}  
+Person 2: I'll take it  
 
 ## Improv Games
 **3 Line Game:** Sets up who we are, relationship, location, what we're doing in 3 lines. Beginning with physical offer.
