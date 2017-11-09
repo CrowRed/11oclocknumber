@@ -1,7 +1,6 @@
 # Games and Exercises
 
 ## Warmup Games
-**Whoosh** With association, rhyming, alliteration, poetry.  
 **This Is A What**
 - (focus is on listening, making offers, and energy passing"  
 - Standing in a circle  
@@ -11,10 +10,12 @@
 - Person 2: {asks a question about the ____}  
 - Person 1: {answers question}  
 - Person 2: I'll take it  
-- This conversation repeats with the next player in circle, but always gets sent back to Person 1 for each part of conversation. The object will change with each person.
+- This conversation repeats with the next player in circle, but always gets sent back to Person 1 for each part of conversation. The object will change with each person.  
+**Whoosh** With association, rhyming, alliteration, poetry.  
 
 ## Improv Games
-**3 Line Game:** Sets up who we are, relationship, location, what we're doing in 3 lines. Beginning with physical offer.
+**3 Line Game:** Sets up who we are, relationship, location, what we're doing in 3 lines. Beginning with physical offer.  
+Actor's Worst Nightmare: Using a phone from audience member as a script, one person has script, other 2 are improvising. Beginning scene with 2 improvisers on stage and 3rd person enters.  
 **Endowing game:** Open scene, each line must endow the other character. Working on narrowing the scene as opposed to broadening it.  
 **Here Comes Jamie:** Two characters are on stage endowing a character (physical, vocal, emotional, circumstantial) who is offstage. We get all of our basic information out about the scene right away and then play the game of constantly endowing a character until they come on stage using all the offers.  
 **The Impossible Improv Game**  
@@ -32,9 +33,11 @@ Rules:
 
 ## Musical Games
 **Accordion (Musical Space Jump):** There is 1 theme that is used to build up the scenes. Scenes are built with 1 character on stage, when ready a second character will clap in and change the scene (still working off the theme). This continues until eventually all actors are onstage. Singing begins with a main chorus that can be song over each scene (think Les Mis). The character that initialized each scene is in charge of singing a verse. Chorus can be tagged at the end of each scene. We continue until we are left with just one person again.  
+**Correspondance:**  2 actors speak in one voice, 2 actors speak word at a time and send messages to one another. Meet on first date and sing a song.  
 **Musical Armando:** Scenes + songs based off of monologue.  
 **Musical Correspondence:** Correspondence that leads to a date where the characters sing.  
 **Square Dance:** Four square with singing, sing as soon as musician starts playing.  
+**Three Headed Monster:** 3 people sing in one voice  
 
 ## Songs
 **Opening Number (Life as a Musical):** Ask for occupation, choose most obvious location for that occupation to take place. Begin with scene painting. All involved in song are the same character (all nurses or all marines etc.) Chorus establishes location, verses continue painting. Working on clumps and building a dance break the same way a chorus is built.  
