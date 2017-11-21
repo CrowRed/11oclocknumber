@@ -29,6 +29,7 @@ Rules:
 
 **It's Tuesday:** Character enters and says "It's Tuesday" in 2 more lines we set up who we are, relationship, location, what we are doing.  
 **Typewriter:**  One character narrates from that side as if they are writing the scene. Both scene members and narrator create offers. Looking for the first unusual thing.  
+**Ping Pong Match:** Worked on raising the stakes. Each scene should be a strong YES or NO for the question of the play. We will be continuing to work on this.  
 
 
 
@@ -43,6 +44,7 @@ Rules:
 ## Songs
 **Opening Number (Life as a Musical):** Ask for occupation, choose most obvious location for that occupation to take place. Begin with scene painting. All involved in song are the same character (all nurses or all marines etc.) Chorus establishes location, verses continue painting. Working on clumps and building a dance break the same way a chorus is built.  
 **Location Song:** A song that paints and outlines a particular place. Often, the actors are singing this song as narrators. See 'Opening Number'.  
+**Duets:** Establishing a simple chorus and repeating (Even with just two). Make sure chorus is able to be sung by both people. If someone sings a full verse, the other person should sing a full verse to stay within the pattern of the song.  
 
 ## Formats
 ### Life as a Musical Format: (thus far)
