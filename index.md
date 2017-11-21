@@ -20,7 +20,8 @@ Here you will find a terminology reference and a games list as well as other imp
 **If you are scheduled in second half of show, you are also playing first half! This was unclear on schedule, my apologies!**  
 
 ## NEW POLICIES:
-- No more than 2 rehearsals can be missed (unless otherwise discussed with Mhairi). Cast members are subject to be put on probation. This will be determined on a case by case basis. Please sign-in on the sign-in sheet for every rehearsal you attend.   - **Please use doorbell when you arrive**.  
+- No more than 2 rehearsals can be missed (unless otherwise discussed with Mhairi). Cast members are subject to be put on probation. This will be determined on a case by case basis. Please sign-in on the sign-in sheet for every rehearsal you attend.     
+- **Please use doorbell when you arrive**.  
 - We are in the process of creating sexual harassment/assault policies  
 
 ## NEW WORKSHOP FORMAT:
